@@ -2,12 +2,9 @@
 #### NEWSWEEK-CLONE
 
 ### Authors:
-[FLEXCEE](https://github.com/Dflexcee/)  Please for now i do not have a partiner, 
-i was instructed by student success 
-to continue to go with 
-my project while i wait for new partner
+d[FLEXCEE](https://github.com/Dflexcee/)  
+[AMFLEXCEE](https://twitter.com/amflexcee/)  
 
-## Live Project:
 
 ### Link to the Assignment:
 [CLICK HERE](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
