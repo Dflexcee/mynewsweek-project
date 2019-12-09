@@ -2,7 +2,7 @@
 #### NEWSWEEK-CLONE
 
 ### Authors:
-d[FLEXCEE](https://github.com/Dflexcee/)  
+[dFLEXCEE](https://github.com/Dflexcee/)  
 [AMFLEXCEE](https://twitter.com/amflexcee/)  
 
 Tools and Technologies Used
